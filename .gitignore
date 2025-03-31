@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Executables (common names from this lab)
+helloWorld
+helloWorldSys
+courseInfo
+asciiArt
+
+# Build artifacts
+*.out
+*.elf
+
+# Editor temp files
+*~
+*.swp
+*.tmp
+
+# Backup files
+*.bak
+.DS_Store
+
+
