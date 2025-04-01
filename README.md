@@ -243,7 +243,7 @@ In this exercise, you’ll build a short visual design using **only string outpu
    #include <stdio.h>
 
    int main() {
-       printf("Hello, World!\\n");
+       printf("Hello, World!\n");
        return 0;
    }
    ```
